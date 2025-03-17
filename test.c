@@ -3,7 +3,7 @@
 int main() {
     int numero;
 
-    printf("¡Hola, Git Bash!\n");
+    printf("I just changed this");
     printf("Ingresa un número: ");
     scanf("%d", &numero);
     printf("Has ingresado: %d\n", numero);
