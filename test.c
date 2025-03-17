@@ -6,7 +6,7 @@ int main() {
     printf("I just changed this");
     printf("Ingresa un número: ");
     scanf("%d", &numero);
-    printf("Has ingresado: %d\n", numero);
+    printf("Kris Valencia", numero);
 
     return 0;
 }
